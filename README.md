@@ -1,4 +1,4 @@
-# Axelar cross-chain dApp examples
+# Axelar cross-chain dApp examples by kochetkovae
 
 ## Introduction
 
